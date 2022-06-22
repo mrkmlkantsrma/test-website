@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test-website/static/css/main.4db54c9d.chunk.css",
+    "main.js": "/test-website/static/js/main.897b1a7b.chunk.js",
+    "main.js.map": "/test-website/static/js/main.897b1a7b.chunk.js.map",
+    "runtime-main.js": "/test-website/static/js/runtime-main.e98b6b32.js",
+    "runtime-main.js.map": "/test-website/static/js/runtime-main.e98b6b32.js.map",
+    "static/css/2.813398fa.chunk.css": "/test-website/static/css/2.813398fa.chunk.css",
+    "static/js/2.28d1a154.chunk.js": "/test-website/static/js/2.28d1a154.chunk.js",
+    "static/js/2.28d1a154.chunk.js.map": "/test-website/static/js/2.28d1a154.chunk.js.map",
+    "index.html": "/test-website/index.html",
+    "static/css/2.813398fa.chunk.css.map": "/test-website/static/css/2.813398fa.chunk.css.map",
+    "static/css/main.4db54c9d.chunk.css.map": "/test-website/static/css/main.4db54c9d.chunk.css.map",
+    "static/js/2.28d1a154.chunk.js.LICENSE.txt": "/test-website/static/js/2.28d1a154.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/test-website/static/media/slick.c94f7671.ttf",
+    "static/media/undraw_Online_learning_re_qw08.80b24f69.svg": "/test-website/static/media/undraw_Online_learning_re_qw08.80b24f69.svg",
+    "static/media/undraw_education_f8ru.d7e72edf.svg": "/test-website/static/media/undraw_education_f8ru.d7e72edf.svg",
+    "static/media/undraw_road_to_knowledge_m8s0.82756a44.svg": "/test-website/static/media/undraw_road_to_knowledge_m8s0.82756a44.svg",
+    "static/media/undraw_teaching_f1cm.60d7e946.svg": "/test-website/static/media/undraw_teaching_f1cm.60d7e946.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e98b6b32.js",
+    "static/css/2.813398fa.chunk.css",
+    "static/js/2.28d1a154.chunk.js",
+    "static/css/main.4db54c9d.chunk.css",
+    "static/js/main.897b1a7b.chunk.js"
+  ]
+}
